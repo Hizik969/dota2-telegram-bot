@@ -1,0 +1,22 @@
+# Файлы с токенами и ключами
+.env
+config.py
+*.key
+*.pem
+
+# Файлы Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Виртуальное окружение
+venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+
+# Логи
+*.log
