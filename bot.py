@@ -9,8 +9,8 @@ from dotenv import load_dotenv
 # Загрузка переменных окружения
 load_dotenv()
 
-TOKEN = os.getenv("TELEGRAM_BOT_TOKEN", "8072995199:AAFLVPbiufKQhYkIM7MwPF3beIezMn_9uWw")
-PLAYER_ID = os.getenv("DOTA2_PLAYER_ID", "33489675")
+TOKEN = os.getenv("TELEGRAM_BOT_TOKEN", "....")
+PLAYER_ID = os.getenv("DOTA2_PLAYER_ID", "....")
 
 
 # Загрузка героев и предметов
